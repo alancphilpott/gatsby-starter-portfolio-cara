@@ -16,7 +16,6 @@ module.exports = {
     siteImage: `/banner.jpg`,
     author: `@alancphilpott`,
   },
-  // pathPrefix: "/gatsby-starter-portfolio-cara",
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
